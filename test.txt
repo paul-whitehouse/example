@@ -1,1 +1,1 @@
-Simple text file
+Simple text file with added power
