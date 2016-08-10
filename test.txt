@@ -1,1 +1,2 @@
-Simple text file with added power wtf
+Simple text file with added power wtf.
+New line
